@@ -37,6 +37,7 @@ $ pip install bottery
 ### Creating a project
 ```bash
 $ bottery startproject librarybot
+$ cd librarybot
 ```
 
 ### Running
